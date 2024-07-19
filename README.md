@@ -1,9 +1,9 @@
 # Tmux Dark Plus Theme
 
-**This is a fork of khanghh's repository here**: [](https://github.com/khanghh/tmux-dark-plus-theme).
+**This is a fork of khanghh's repository here**: https://github.com/khanghh/tmux-dark-plus-theme.
 
-I liked the theme but in the bottom right corner the user wasn't actually displayed (instead showing also '#U').
-That was the main reason for forking, but this also works for any other possible personalized further changes.
+I liked the theme but in the bottom right corner the user wasn't displayed properly (instead showing also '#U').
+That was the main reason for forking, but this repo is used for any other possible personalized further changes.
 For now I've just removed the #U.
 
 The rest of this readme is (almost verbatim) from the upstream repository.
