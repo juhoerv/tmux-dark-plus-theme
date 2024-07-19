@@ -1,5 +1,13 @@
 # Tmux Dark Plus Theme
 
+**This is a fork of khanghh's repository here**: [](https://github.com/khanghh/tmux-dark-plus-theme).
+
+I liked the theme but in the bottom right corner the user wasn't actually displayed (instead showing also '#U').
+That was the main reason for forking, but this also works for any other possible personalized further changes.
+For now I've just removed the #U.
+
+The rest of this readme is (almost verbatim) from the upstream repository.
+
 Dark+ theme for Tmux.
 
 ## Installation
@@ -8,26 +16,9 @@ Dark+ theme for Tmux.
 
 1.  Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-        set -g @plugin 'khanghh/tmux-dark-plus-theme'
+        set -g @plugin 'juhoerv/tmux-dark-plus-theme'
 
 2.  Hit `prefix + I` to fetch the plugin and source it. The theme should now be working.
-<!--
-
-### Install manually
-
-1.  Clone repo to local machine:
-
-        git clone https://github.com/khang-hoang/tmux-dark-plus-theme ~/.tmux/themes/tmux-dark-plus-theme
-
-2.  Add this line to the bottom of your `~/.tmux.conf`:
-
-        run-shell "~/.tmux/themes/tmux-dark-plus-theme/dark_plus.tmux"
-
-3.  Reload your `~/.tmux.conf`:
-
-        tmux source-file ~/.tmux.conf
-
-    -->
 
 ## Themes
 
