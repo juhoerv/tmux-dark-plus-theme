@@ -2,7 +2,7 @@
 
 **This is a fork of khanghh's repository here**: https://github.com/khanghh/tmux-dark-plus-theme.
 
-I liked the theme but in the bottom right corner the user wasn't displayed properly (instead showing also '#U').
+I liked the theme but in the bottom right corner the user wasn't displayed properly (instead showing just '#U').
 That was the main reason for forking, but this repo will also be used for any other possible personalized further changes.
 For now I've just removed the #U.
 
